@@ -1,5 +1,5 @@
 # telegramclonebot
-Source: https://github.com/jagrit007/Telegram-CloneBot
+Source: https://github.com/jagrit007/Telegram-CloneBot & idea Credit to https://github.com/noobFromMM
 <p align="center">
 <img src="https://i.imgur.com/SjeoNU1.jpg">
 </p>
