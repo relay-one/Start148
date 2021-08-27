@@ -26,6 +26,7 @@ OWNER_ID : ဒီနေရာမှာ သင့်ရဲ့ Telegram user ID (n
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/Start148)
 
-# Just for info
+# ဆက်သွယ်ရန်
 [Bot Tutorials Channel](https://t.me/BotTutorialsMM)
+
 [ContactMe](https://t.me/Dr007bot)
