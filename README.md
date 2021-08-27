@@ -25,3 +25,7 @@ OWNER_ID : ဒီနေရာမှာ သင့်ရဲ့ Telegram user ID (n
 ကဲ အထက်မှာရှင်းပြထားသလို Bot token, User Id တွေရပြီ။ note ထဲမှာ ကူးပြီးပြီဆိုရင် ခု အောက်က ခလုပ်ကို နှိပ်လိုက်ပါတော့ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/publicmm9/Start148)
+
+# Just for info
+[Bot Tutorials Channel](https://t.me/BotTutorialsMM)
+[ContactMe](https://t.me/Dr007bot)
