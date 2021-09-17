@@ -4,7 +4,7 @@ Source: https://github.com/jagrit007/Telegram-CloneBot & idea Credit to https://
 <img src="https://i.imgur.com/SjeoNU1.jpg">
 </p>
 
-ဒီbot လေးကို GDrive ရှိပြီး bot လုပ်ရခက်နေသူတွေအတွက် ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ Pro သမားများအဆင်ပြေမည် မဟုတ်ပါ။
+ဒီbot လေးကို GDrive ရှိပြီး bot လုပ်ရခက်နေသူတွေအတွက် ဖန်တီးထားခြင်းဖြစ်ပါတယ်။ Pro သမားများအဆင်ပြေမည် မဟုတ်ပါ
 
 **အထူးသတိပြုရန်**
 Source Drive နှင့် ကူးမည့်မိမိShareDrive တိုတွင် service7811@googlegroups.com ကို content manager အဖြစ် add ထားမှ ကူးလိုရမှာပါ။ addနည်းကို ဒီမှာကြည့်ပါ။https://tiny.one/dwtykxca
