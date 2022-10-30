@@ -8,8 +8,8 @@
     "google drive",
     "clone bot"
   ],
-  "repository": "https://github.com/drzawlinmg/Start148",
-  "website":   "https://github.com/drzawlinmg/Start148",
+  "repository": "https://github.com/relay-one/Start148",
+  "website":   "https://github.com/relay-one/Start148",
   "success_url": "https://t.me/xxx",
   "env": {
     "BOT_TOKEN": {
